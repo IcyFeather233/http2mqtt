@@ -1,0 +1,17 @@
+{
+  "name": "http2mqtt",
+  "version": "1.0.0",
+  "description": "http2mqtt with basic authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.3.7",
+    "restify": "^8.6.1",
+    "http-auth": "^4.2.0",
+    "http-auth-connect": "^1.0.6"
+  }
+}
